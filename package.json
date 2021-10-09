@@ -29,7 +29,7 @@
     "*.{js,ts}": [
       "eslint --fix"
     ],
-    "src/**/*.{json,md}": [
+    "src/**/*.{json,md,sol}": [
       "prettier --write"
     ]
   },
