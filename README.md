@@ -1,4 +1,4 @@
-# Advanced Sample Hardhat Project
+# [Solidity By Example](https://solidity-by-example.org/)
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
